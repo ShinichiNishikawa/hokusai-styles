@@ -33,4 +33,4 @@ layout:
     - 0.6
   text-size: 12
   text-max-width: 9
-paint: $textSettings
+paint: $textHighligthedSettings

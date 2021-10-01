@@ -1,13 +1,25 @@
-$name: My Style
+$name: Hokusai Base
 
-$background: rgba(19, 28, 54, 1)
-$waterColor: rgba(1, 17, 44, 1)
-$highwayColor: rgba(255, 255, 255, 0.4)
+$background: "#A9B976"
+$waterColor: "#223E75"
+$highwayColor: "#676D57"
 $textSettings:
-  text-halo-blur: 0.5
-  text-color: "#FFFFFF"
+  text-halo-blur: 0.1
+  text-color: "#1F2B3C"
   text-halo-width: 1
-  text-halo-color: "#000000"
+  text-halo-color: "#EBC99B"
+$textHighligthedSettings:
+  text-halo-blur: 0
+  text-color: "#BB3D2C"
+  text-halo-width: 0.1
+  text-halo-color: "#034D68"
+$landuseColor: "#C3584F"
+$landuseColorBright: "#D79C76"
+$boundaryLandColor: "#F4E2A3"
+$roadShieldVisibility: "none" 
+$landCoverWoodColor: "#3F847C"
+$buildingColor: "#C2A399"
+$poiTextColor: "#BB3D2C"
 
 # カスタマイズここまで
 

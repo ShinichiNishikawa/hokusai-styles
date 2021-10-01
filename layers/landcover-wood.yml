@@ -14,7 +14,7 @@ filter:
     - class
     - grass
 paint:
-  fill-color: rgba(39, 128, 44, 0.3)
+  fill-color: $landCoverWoodColor
   fill-opacity: 0.2
   fill-outline-color: hsla(0, 0%, 0%, 0.03)
   fill-antialias:

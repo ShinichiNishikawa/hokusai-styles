@@ -11,4 +11,4 @@ filter:
     - class
     - commercial
 paint:
-  fill-color: hsla(0, 60%, 87%, 0.1)
+  fill-color: $landuseColor

@@ -29,4 +29,5 @@ layout:
   text-rotation-alignment: viewport
   text-size: 10
   icon-size: 1
+  visibility: $roadShieldVisibility
 paint: {}
