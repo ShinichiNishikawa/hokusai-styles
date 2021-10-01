@@ -11,7 +11,7 @@ layout:
   line-join: round
   visibility: visible
 paint:
-  line-color: rgba(108, 159, 182, 1)
+  line-color: $landuseColorBright
   line-width: 1.1
   line-dasharray:
     - 2
